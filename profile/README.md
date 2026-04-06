@@ -1,6 +1,6 @@
 # Softmantics
 
-Welcome to **Softmantics**, your trusted partner in harnessing the power of **Artificial Intelligence** and **Mobile App Development**. We specialize in delivering cutting-edge AI-driven solutions tailored to meet the evolving needs of modern businesses.
+Welcome to **Softmantics**, your trusted partner in harnessing the power of **Artificial Intelligence** and **Cloud App Development**. We specialize in delivering cutting-edge AI-driven solutions tailored to meet the evolving needs of modern businesses.
 
 ## 🚀 What We Do
 
@@ -13,7 +13,7 @@ Our team designs and delivers bespoke AI solutions that address specific busines
 ### AI Product Development
 From concept to launch, we collaborate with you to build AI-powered products that stand out in the market. Our end-to-end development services ensure your AI product is scalable, user-friendly, and impactful.
 
-### Mobile App Development
+### Cloud/Mobile App Development
 We develop intuitive and robust mobile applications tailored to your business goals. Our apps combine seamless user experiences with advanced functionality, ensuring your brand stays connected with your customers anytime, anywhere.
 
 ---
